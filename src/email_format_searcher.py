@@ -1,4 +1,4 @@
-from src.models import Email
+from src.models import Email, Commands
 import re
 
 
@@ -16,7 +16,6 @@ class EmailFormatSearch:
         delimiters = ['.', '_', '-']
         parts = []
         current_part = ''
-        # print(self.email)
         for i, char in enumerate(self.email):
             if char == "@":
                 parts.append(current_part)
@@ -27,7 +26,8 @@ class EmailFormatSearch:
                 parts.append(char)
                 current_part = ''
             elif char.isupper():
-                parts.append(current_part)
+                if current_part != "":
+                    parts.append(current_part)
                 current_part = char
             else:
                 current_part += char
@@ -38,12 +38,11 @@ class EmailFormatSearch:
         Instruction for translate email into format
         ".-_": разделители
 
-        "a": односимвольное строчное поле
-        "A": односимвольное заглавное поле
+        "lower_one": односимвольное строчное поле
+        "upper_one": односимвольное заглавное поле
 
-        "s": многосимвольное строчное поле
-        "S": односимвольное заглавное поле
-        "d": domain
+        "lower_many": многосимвольное строчное поле
+        "upper_many": многосимвольное заглавное поле
         """
         r = []
         row_email = self.split_row_email()
@@ -54,7 +53,6 @@ class EmailFormatSearch:
 
         upper_alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S',
                           'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
-
         for s in row_email:
             if s in ".-_":
                 r.append(s)
@@ -62,15 +60,14 @@ class EmailFormatSearch:
                 r.append(s)
             elif s[0] in lower_alphabet:
                 if len(s) == 1:
-                    r.append("s")
+                    r.append(Commands.lower_one)
                 else:
-                    r.append("sk")
+                    r.append(Commands.lower_many)
             elif s[0] in upper_alphabet:
                 if len(s) == 1:
-                    r.append("a")
+                    r.append(Commands.upper_one)
                 else:
-                    r.append("ak")
+                    r.append(Commands.upper_many)
             else:
                 print("XXXXXXXXXXXXXXXXXXXXXXX")
-        # print(Email(r, domain))
         return Email(r, domain)
