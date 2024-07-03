@@ -9,7 +9,6 @@ class DocxFileDownloader:
         self.inurl = inurl
         self.num_results = 5
         self.links = self._find_docs()
-        # print(self.links)
 
     def _find_docs(self):
         query = f"filetype:docx inurl:{self.inurl}"
@@ -30,12 +29,17 @@ class DocxFileDownloader:
         return links
 
     def save_docs(self):
-        for i, link in enumerate(self.links):
+        for i, link in enumerate(self._find_docs()):
             response = requests.get(link)
             address = f"upload/{self.inurl}/{i}.docx"
             directory = f"upload/{self.inurl}/"
             if not os.path.exists(directory):
                 os.makedirs(directory)
-            print(address)
+            # print(address)
+            self.links.append(address)
             with open(address, "wb") as f:
                 f.write(response.content)
+    def get(self):
+        return self.links
+
+

@@ -33,7 +33,7 @@ class EmailFormatSearch:
                 current_part += char
         return parts
 
-    def get_control_email(self) -> Email:
+    def get_email_format(self) -> Email:
         """
         Instruction for translate email into format
         ".-_": разделители
