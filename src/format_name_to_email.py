@@ -32,15 +32,6 @@ class FormatNameToEmail:
                     name += operation
             supposed_names.append(name)
         return supposed_names
-        # for i in range(0, 3):
-        #     for j in range(i, 3):
-        #         for k in range(j, 3):
-        #             for s in email_format.control_structures:
-        #                 if s in Commands:
-
-        # for s in email_format.control_structures:
-        #     if s in Commands:
-        #         cnt += 1
 
     def get_logins(self):
         pass

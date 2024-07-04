@@ -1,0 +1,16 @@
+Finded emails:
+----------------
+a.b.brok@ma.ru
+samoylenkoKM@yandex.ru
+a.samolenko@google.com
+SerikovMI@rnmsk.rosneft.ru
+ManapovaMN@rnmsk.rosneft.ru
+
+email formats:
+----------------
+<lower_one>.<lower_one>.<lower_many>@ma.ru
+<lower_many><upper_one><upper_one>@yandex.ru
+<lower_one>.<lower_many>@google.com
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+
