@@ -36,6 +36,9 @@ class User:
                     transliteration(self.second_name),
                     transliteration(self.last_name))
 
+    def __str__(self):
+        return self.first_name + " " + self.second_name + " " + self.last_name
+
 
 class Commands(Enum):
     lower_one = "lower_one"

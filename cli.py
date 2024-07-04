@@ -9,6 +9,7 @@ from src.docx_file_downloader import DocxFileDownloader
 from src.email_format_searcher import EmailFormatSearch
 from src.format_name_to_email import FormatNameToEmail
 from src.models import User, Email
+from src.formatter import Formatter
 
 
 def get_upload_path(url: str = "rosneft"):
@@ -21,24 +22,6 @@ def get_save_path(save_path: str):
     BASE_DIR = Path(__file__).resolve().parent
     p = os.path.join(BASE_DIR, save_path)
     return p
-
-
-def add_paragraph_with_finded_email(save_path, emails: list):
-    with open(save_path, 'a') as f:
-        print("Finded emails:", file=f)
-        print("----------------", file=f)
-        for email in emails:
-            print(email, file=f)
-        print("", file=f)
-
-
-def add_paragraph_with_email_formats(save_path, email_formats: list[Email]):
-    with open(save_path, 'a') as f:
-        print("email formats:", file=f)
-        print("----------------", file=f)
-        for email in email_formats:
-            print(email.pretty(), file=f)
-        print("", file=f)
 
 
 @click.command()
@@ -59,24 +42,29 @@ def main(domain, save_path):
     emails = []
     email_formats = []
     files = os.listdir(upload_path)
+    formatter = Formatter(save_path)
     for file in files:
         path = os.path.join(upload_path, file)
         emails += find_emails(path)
-    add_paragraph_with_finded_email(save_path, emails)
+    formatter.add_paragraph_with_finded_email(emails)
 
     # 4. Find all email formats
     for email in emails:
         email_format = EmailFormatSearch(email).get_email_format()
         email_formats.append(email_format)
+    # 5. Find all users from metadata
+    users = [
+        User("Андрей", "Самойленко", "Сергеевич"),
+        User("Владислав", "Иванов", "ivanovich")
+    ]
+    formatter.add_paragraph_with_email_formats(email_formats)
 
-    add_paragraph_with_email_formats(save_path, email_formats)
-
-    # 5. Try user
-    for email_format in email_formats:
-        user = User("Андрей", "Самойленко", "Сергеевич")
-        fm = FormatNameToEmail.format_name_to_email(user.transliterate(), email_format)
-        print(fm)
-        pass
+    formatter.add_paragraph_with_users(users)
+    # 6. Suppose all user logins
+    for user in users:
+        for email_format in email_formats:
+            fm = FormatNameToEmail.format_name_to_email(user.transliterate(), email_format)
+            formatter.add_paragraph_with_user_logins(user, email_format, fm)
 
 
 main()
