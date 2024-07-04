@@ -39,7 +39,6 @@ class DocxFileDownloader:
             self.links.append(address)
             with open(address, "wb") as f:
                 f.write(response.content)
+
     def get(self):
         return self.links
-
-
