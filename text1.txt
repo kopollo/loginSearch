@@ -1,0 +1,302 @@
+Finded emails:
+----------------
+ClaimCentre@sibur.ru
+KKiSO-OCO-bsc@bsc.sibur.ru.
+GubinaOV@shp.sibur.ru
+For_info@sibur.ru
+mail-shp@sibur.ru
+info@sibur.ru
+KKiSO-OCO-bsc@bsc.sibur.ru
+time_material@sibur.ru
+a.hohlushina@ids-borjomi.ru
+office@tltk.ru
+Sibur-ug@sibur.ru
+ug@sibur.ru
+hr@shp.sibur.ru
+----------------
+
+email formats:
+----------------
+<upper_many><upper_many>@sibur.ru
+<upper_one><upper_many><upper_one><upper_one>-<upper_one><upper_one><upper_one>-<lower_many>@bsc.sibur.ru.
+<upper_many><upper_one><upper_one>@shp.sibur.ru
+<upper_many>_<lower_many>@sibur.ru
+<lower_many>-<lower_many>@sibur.ru
+<lower_many>@sibur.ru
+<upper_one><upper_many><upper_one><upper_one>-<upper_one><upper_one><upper_one>-<lower_many>@bsc.sibur.ru
+<lower_many>_<lower_many>@sibur.ru
+<lower_one>.<lower_many>@ids-borjomi.ru
+<lower_many>@tltk.ru
+<upper_many>-<lower_many>@sibur.ru
+<lower_many>@sibur.ru
+<lower_many>@shp.sibur.ru
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_many>@sibur.ru
+----------------
+AndreiSamoilenko@sibur.ru
+AndreiSergeevich@sibur.ru
+SamoilenkoAndrei@sibur.ru
+SamoilenkoSergeevich@sibur.ru
+SergeevichAndrei@sibur.ru
+SergeevichSamoilenko@sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_many><upper_one><upper_one>-<upper_one><upper_one><upper_one>-<lower_many>@bsc.sibur.ru.
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@shp.sibur.ru
+----------------
+AndreiSS@shp.sibur.ru
+AndreiSS@shp.sibur.ru
+SamoilenkoAS@shp.sibur.ru
+SamoilenkoSA@shp.sibur.ru
+SergeevichAS@shp.sibur.ru
+SergeevichSA@shp.sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>_<lower_many>@sibur.ru
+----------------
+Andrei_samoilenko@sibur.ru
+Andrei_sergeevich@sibur.ru
+Samoilenko_andrei@sibur.ru
+Samoilenko_sergeevich@sibur.ru
+Sergeevich_andrei@sibur.ru
+Sergeevich_samoilenko@sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>-<lower_many>@sibur.ru
+----------------
+andrei-samoilenko@sibur.ru
+andrei-sergeevich@sibur.ru
+samoilenko-andrei@sibur.ru
+samoilenko-sergeevich@sibur.ru
+sergeevich-andrei@sibur.ru
+sergeevich-samoilenko@sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sibur.ru
+----------------
+andrei@sibur.ru
+andrei@sibur.ru
+samoilenko@sibur.ru
+samoilenko@sibur.ru
+sergeevich@sibur.ru
+sergeevich@sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_many><upper_one><upper_one>-<upper_one><upper_one><upper_one>-<lower_many>@bsc.sibur.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<lower_many>@sibur.ru
+----------------
+andrei_samoilenko@sibur.ru
+andrei_sergeevich@sibur.ru
+samoilenko_andrei@sibur.ru
+samoilenko_sergeevich@sibur.ru
+sergeevich_andrei@sibur.ru
+sergeevich_samoilenko@sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>.<lower_many>@ids-borjomi.ru
+----------------
+a.samoilenko@ids-borjomi.ru
+a.sergeevich@ids-borjomi.ru
+s.andrei@ids-borjomi.ru
+s.sergeevich@ids-borjomi.ru
+s.andrei@ids-borjomi.ru
+s.samoilenko@ids-borjomi.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@tltk.ru
+----------------
+andrei@tltk.ru
+andrei@tltk.ru
+samoilenko@tltk.ru
+samoilenko@tltk.ru
+sergeevich@tltk.ru
+sergeevich@tltk.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>-<lower_many>@sibur.ru
+----------------
+Andrei-samoilenko@sibur.ru
+Andrei-sergeevich@sibur.ru
+Samoilenko-andrei@sibur.ru
+Samoilenko-sergeevich@sibur.ru
+Sergeevich-andrei@sibur.ru
+Sergeevich-samoilenko@sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sibur.ru
+----------------
+andrei@sibur.ru
+andrei@sibur.ru
+samoilenko@sibur.ru
+samoilenko@sibur.ru
+sergeevich@sibur.ru
+sergeevich@sibur.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@shp.sibur.ru
+----------------
+andrei@shp.sibur.ru
+andrei@shp.sibur.ru
+samoilenko@shp.sibur.ru
+samoilenko@shp.sibur.ru
+sergeevich@shp.sibur.ru
+sergeevich@shp.sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_many>@sibur.ru
+----------------
+IvanovVladislav@sibur.ru
+IvanovIvanovich@sibur.ru
+VladislavIvanov@sibur.ru
+VladislavIvanovich@sibur.ru
+IvanovichIvanov@sibur.ru
+IvanovichVladislav@sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_many><upper_one><upper_one>-<upper_one><upper_one><upper_one>-<lower_many>@bsc.sibur.ru.
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@shp.sibur.ru
+----------------
+IvanovVI@shp.sibur.ru
+IvanovIV@shp.sibur.ru
+VladislavII@shp.sibur.ru
+VladislavII@shp.sibur.ru
+IvanovichIV@shp.sibur.ru
+IvanovichVI@shp.sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>_<lower_many>@sibur.ru
+----------------
+Ivanov_vladislav@sibur.ru
+Ivanov_ivanovich@sibur.ru
+Vladislav_ivanov@sibur.ru
+Vladislav_ivanovich@sibur.ru
+Ivanovich_ivanov@sibur.ru
+Ivanovich_vladislav@sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>-<lower_many>@sibur.ru
+----------------
+ivanov-vladislav@sibur.ru
+ivanov-ivanovich@sibur.ru
+vladislav-ivanov@sibur.ru
+vladislav-ivanovich@sibur.ru
+ivanovich-ivanov@sibur.ru
+ivanovich-vladislav@sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sibur.ru
+----------------
+ivanov@sibur.ru
+ivanov@sibur.ru
+vladislav@sibur.ru
+vladislav@sibur.ru
+ivanovich@sibur.ru
+ivanovich@sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_many><upper_one><upper_one>-<upper_one><upper_one><upper_one>-<lower_many>@bsc.sibur.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<lower_many>@sibur.ru
+----------------
+ivanov_vladislav@sibur.ru
+ivanov_ivanovich@sibur.ru
+vladislav_ivanov@sibur.ru
+vladislav_ivanovich@sibur.ru
+ivanovich_ivanov@sibur.ru
+ivanovich_vladislav@sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>.<lower_many>@ids-borjomi.ru
+----------------
+i.vladislav@ids-borjomi.ru
+i.ivanovich@ids-borjomi.ru
+v.ivanov@ids-borjomi.ru
+v.ivanovich@ids-borjomi.ru
+i.ivanov@ids-borjomi.ru
+i.vladislav@ids-borjomi.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@tltk.ru
+----------------
+ivanov@tltk.ru
+ivanov@tltk.ru
+vladislav@tltk.ru
+vladislav@tltk.ru
+ivanovich@tltk.ru
+ivanovich@tltk.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>-<lower_many>@sibur.ru
+----------------
+Ivanov-vladislav@sibur.ru
+Ivanov-ivanovich@sibur.ru
+Vladislav-ivanov@sibur.ru
+Vladislav-ivanovich@sibur.ru
+Ivanovich-ivanov@sibur.ru
+Ivanovich-vladislav@sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sibur.ru
+----------------
+ivanov@sibur.ru
+ivanov@sibur.ru
+vladislav@sibur.ru
+vladislav@sibur.ru
+ivanovich@sibur.ru
+ivanovich@sibur.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@shp.sibur.ru
+----------------
+ivanov@shp.sibur.ru
+ivanov@shp.sibur.ru
+vladislav@shp.sibur.ru
+vladislav@shp.sibur.ru
+ivanovich@shp.sibur.ru
+ivanovich@shp.sibur.ru
+----------------
+

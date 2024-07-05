@@ -1,0 +1,1190 @@
+Finded emails:
+----------------
+sobrt@mos.ru
+CheprakovSV@gtp.transneft.ru
+SergeevSY@gtp.transneft.ru
+info@tmn.transneft.ru
+PoveschenkoAlV@gtp.transneft.ru
+BalatckiiVS@gtp.transneft.ru
+RafikovMN@omg.transneft.ru
+ShamykovAD@gtp.transneft.ru
+ShaklejnSV@gtp.transneft.ru
+UgarovaVN@gtp.transneft.ru
+KachalinNA@gtp.transneft.ru
+info@oms.transneft.ru
+AsheulovTV@gtp.transneft.ru
+GammershmidtAE@gtp.transneft.ru
+info@omg.transneft.ru
+BelyaevaNG@oms.transneft.ru
+lysikovee@spb.transneft.ru
+Solovievai@gtp.transneft.ru
+torg@sam.transneft.ru
+cbpo@sam.transneft.ru
+AnisimovaIY@omg.transneft.ru
+info@sberbank-ast.ru
+ReitenbahEE@gtp.transneft.ru
+PonomarevAE@gtp.transneft.ru
+postman@ctd.transneft.ru
+BalabaevSE@gtp.transneft.ru
+ShishlyannikovAnA@gtp.transneft.ru
+chernyaevaia@tvv.transneft.ru
+ChermyaninEV@gtp.transneft.ru
+TyazhelnikovAY@gtp.transneft.ru
+KolupaevSA@tmn.transneft.ru
+gtp@gtp.transneft.ru
+filipchenkoiv@ooo-transneft-service.ru
+ChugunovVG@ctd.transneft.ru
+KochurovaNV@ctd.transneft.ru
+BelovDS@gtp.transneft.ru
+info@etpgpb.ru
+MoiseevAA@gtp.transneft.ru
+niitnn@niitnn.transneft.ru
+BryksinaNA@spb.transneft.ru
+ryabovatf@sam.transneft.ru
+company@sberbank-ast.ru
+GalaktionovaOV@sam.transneft.ru
+torgi@tno.transneft.ru
+anisimovaiy@omg.transneft.ru
+opt@spbex.ru
+marino@mos.ru
+YangirovFI@gtp.transneft.ru
+EfremovAV@gtp.transneft.ru
+----------------
+
+email formats:
+----------------
+<lower_many>@mos.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<lower_many>@tmn.transneft.ru
+<upper_many><upper_many><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@omg.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<lower_many>@oms.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<lower_many>@omg.transneft.ru
+<upper_many><upper_one><upper_one>@oms.transneft.ru
+<lower_many>@spb.transneft.ru
+<upper_many>@gtp.transneft.ru
+<lower_many>@sam.transneft.ru
+<lower_many>@sam.transneft.ru
+<upper_many><upper_one><upper_one>@omg.transneft.ru
+<lower_many>@sberbank-ast.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<lower_many>@ctd.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_many><upper_one>@gtp.transneft.ru
+<lower_many>@tvv.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@tmn.transneft.ru
+<lower_many>@gtp.transneft.ru
+<lower_many>@ooo-transneft-service.ru
+<upper_many><upper_one><upper_one>@ctd.transneft.ru
+<upper_many><upper_one><upper_one>@ctd.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<lower_many>@etpgpb.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<lower_many>@niitnn.transneft.ru
+<upper_many><upper_one><upper_one>@spb.transneft.ru
+<lower_many>@sam.transneft.ru
+<lower_many>@sberbank-ast.ru
+<upper_many><upper_one><upper_one>@sam.transneft.ru
+<lower_many>@tno.transneft.ru
+<lower_many>@omg.transneft.ru
+<lower_many>@spbex.ru
+<lower_many>@mos.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+<upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@mos.ru
+----------------
+andrei@mos.ru
+andrei@mos.ru
+samoilenko@mos.ru
+samoilenko@mos.ru
+sergeevich@mos.ru
+sergeevich@mos.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@tmn.transneft.ru
+----------------
+andrei@tmn.transneft.ru
+andrei@tmn.transneft.ru
+samoilenko@tmn.transneft.ru
+samoilenko@tmn.transneft.ru
+sergeevich@tmn.transneft.ru
+sergeevich@tmn.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_many><upper_one>@gtp.transneft.ru
+----------------
+AndreiSamoilenkoS@gtp.transneft.ru
+AndreiSergeevichS@gtp.transneft.ru
+SamoilenkoAndreiS@gtp.transneft.ru
+SamoilenkoSergeevichA@gtp.transneft.ru
+SergeevichAndreiS@gtp.transneft.ru
+SergeevichSamoilenkoA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@omg.transneft.ru
+----------------
+AndreiSS@omg.transneft.ru
+AndreiSS@omg.transneft.ru
+SamoilenkoAS@omg.transneft.ru
+SamoilenkoSA@omg.transneft.ru
+SergeevichAS@omg.transneft.ru
+SergeevichSA@omg.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@oms.transneft.ru
+----------------
+andrei@oms.transneft.ru
+andrei@oms.transneft.ru
+samoilenko@oms.transneft.ru
+samoilenko@oms.transneft.ru
+sergeevich@oms.transneft.ru
+sergeevich@oms.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@omg.transneft.ru
+----------------
+andrei@omg.transneft.ru
+andrei@omg.transneft.ru
+samoilenko@omg.transneft.ru
+samoilenko@omg.transneft.ru
+sergeevich@omg.transneft.ru
+sergeevich@omg.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@oms.transneft.ru
+----------------
+AndreiSS@oms.transneft.ru
+AndreiSS@oms.transneft.ru
+SamoilenkoAS@oms.transneft.ru
+SamoilenkoSA@oms.transneft.ru
+SergeevichAS@oms.transneft.ru
+SergeevichSA@oms.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@spb.transneft.ru
+----------------
+andrei@spb.transneft.ru
+andrei@spb.transneft.ru
+samoilenko@spb.transneft.ru
+samoilenko@spb.transneft.ru
+sergeevich@spb.transneft.ru
+sergeevich@spb.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>@gtp.transneft.ru
+----------------
+Andrei@gtp.transneft.ru
+Andrei@gtp.transneft.ru
+Samoilenko@gtp.transneft.ru
+Samoilenko@gtp.transneft.ru
+Sergeevich@gtp.transneft.ru
+Sergeevich@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sam.transneft.ru
+----------------
+andrei@sam.transneft.ru
+andrei@sam.transneft.ru
+samoilenko@sam.transneft.ru
+samoilenko@sam.transneft.ru
+sergeevich@sam.transneft.ru
+sergeevich@sam.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sam.transneft.ru
+----------------
+andrei@sam.transneft.ru
+andrei@sam.transneft.ru
+samoilenko@sam.transneft.ru
+samoilenko@sam.transneft.ru
+sergeevich@sam.transneft.ru
+sergeevich@sam.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@omg.transneft.ru
+----------------
+AndreiSS@omg.transneft.ru
+AndreiSS@omg.transneft.ru
+SamoilenkoAS@omg.transneft.ru
+SamoilenkoSA@omg.transneft.ru
+SergeevichAS@omg.transneft.ru
+SergeevichSA@omg.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sberbank-ast.ru
+----------------
+andrei@sberbank-ast.ru
+andrei@sberbank-ast.ru
+samoilenko@sberbank-ast.ru
+samoilenko@sberbank-ast.ru
+sergeevich@sberbank-ast.ru
+sergeevich@sberbank-ast.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@ctd.transneft.ru
+----------------
+andrei@ctd.transneft.ru
+andrei@ctd.transneft.ru
+samoilenko@ctd.transneft.ru
+samoilenko@ctd.transneft.ru
+sergeevich@ctd.transneft.ru
+sergeevich@ctd.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_many><upper_one>@gtp.transneft.ru
+----------------
+AndreiSamoilenkoS@gtp.transneft.ru
+AndreiSergeevichS@gtp.transneft.ru
+SamoilenkoAndreiS@gtp.transneft.ru
+SamoilenkoSergeevichA@gtp.transneft.ru
+SergeevichAndreiS@gtp.transneft.ru
+SergeevichSamoilenkoA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@tvv.transneft.ru
+----------------
+andrei@tvv.transneft.ru
+andrei@tvv.transneft.ru
+samoilenko@tvv.transneft.ru
+samoilenko@tvv.transneft.ru
+sergeevich@tvv.transneft.ru
+sergeevich@tvv.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@tmn.transneft.ru
+----------------
+AndreiSS@tmn.transneft.ru
+AndreiSS@tmn.transneft.ru
+SamoilenkoAS@tmn.transneft.ru
+SamoilenkoSA@tmn.transneft.ru
+SergeevichAS@tmn.transneft.ru
+SergeevichSA@tmn.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@gtp.transneft.ru
+----------------
+andrei@gtp.transneft.ru
+andrei@gtp.transneft.ru
+samoilenko@gtp.transneft.ru
+samoilenko@gtp.transneft.ru
+sergeevich@gtp.transneft.ru
+sergeevich@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@ooo-transneft-service.ru
+----------------
+andrei@ooo-transneft-service.ru
+andrei@ooo-transneft-service.ru
+samoilenko@ooo-transneft-service.ru
+samoilenko@ooo-transneft-service.ru
+sergeevich@ooo-transneft-service.ru
+sergeevich@ooo-transneft-service.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@ctd.transneft.ru
+----------------
+AndreiSS@ctd.transneft.ru
+AndreiSS@ctd.transneft.ru
+SamoilenkoAS@ctd.transneft.ru
+SamoilenkoSA@ctd.transneft.ru
+SergeevichAS@ctd.transneft.ru
+SergeevichSA@ctd.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@ctd.transneft.ru
+----------------
+AndreiSS@ctd.transneft.ru
+AndreiSS@ctd.transneft.ru
+SamoilenkoAS@ctd.transneft.ru
+SamoilenkoSA@ctd.transneft.ru
+SergeevichAS@ctd.transneft.ru
+SergeevichSA@ctd.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@etpgpb.ru
+----------------
+andrei@etpgpb.ru
+andrei@etpgpb.ru
+samoilenko@etpgpb.ru
+samoilenko@etpgpb.ru
+sergeevich@etpgpb.ru
+sergeevich@etpgpb.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@niitnn.transneft.ru
+----------------
+andrei@niitnn.transneft.ru
+andrei@niitnn.transneft.ru
+samoilenko@niitnn.transneft.ru
+samoilenko@niitnn.transneft.ru
+sergeevich@niitnn.transneft.ru
+sergeevich@niitnn.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@spb.transneft.ru
+----------------
+AndreiSS@spb.transneft.ru
+AndreiSS@spb.transneft.ru
+SamoilenkoAS@spb.transneft.ru
+SamoilenkoSA@spb.transneft.ru
+SergeevichAS@spb.transneft.ru
+SergeevichSA@spb.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sam.transneft.ru
+----------------
+andrei@sam.transneft.ru
+andrei@sam.transneft.ru
+samoilenko@sam.transneft.ru
+samoilenko@sam.transneft.ru
+sergeevich@sam.transneft.ru
+sergeevich@sam.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sberbank-ast.ru
+----------------
+andrei@sberbank-ast.ru
+andrei@sberbank-ast.ru
+samoilenko@sberbank-ast.ru
+samoilenko@sberbank-ast.ru
+sergeevich@sberbank-ast.ru
+sergeevich@sberbank-ast.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@sam.transneft.ru
+----------------
+AndreiSS@sam.transneft.ru
+AndreiSS@sam.transneft.ru
+SamoilenkoAS@sam.transneft.ru
+SamoilenkoSA@sam.transneft.ru
+SergeevichAS@sam.transneft.ru
+SergeevichSA@sam.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@tno.transneft.ru
+----------------
+andrei@tno.transneft.ru
+andrei@tno.transneft.ru
+samoilenko@tno.transneft.ru
+samoilenko@tno.transneft.ru
+sergeevich@tno.transneft.ru
+sergeevich@tno.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@omg.transneft.ru
+----------------
+andrei@omg.transneft.ru
+andrei@omg.transneft.ru
+samoilenko@omg.transneft.ru
+samoilenko@omg.transneft.ru
+sergeevich@omg.transneft.ru
+sergeevich@omg.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@spbex.ru
+----------------
+andrei@spbex.ru
+andrei@spbex.ru
+samoilenko@spbex.ru
+samoilenko@spbex.ru
+sergeevich@spbex.ru
+sergeevich@spbex.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@mos.ru
+----------------
+andrei@mos.ru
+andrei@mos.ru
+samoilenko@mos.ru
+samoilenko@mos.ru
+sergeevich@mos.ru
+sergeevich@mos.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+AndreiSS@gtp.transneft.ru
+AndreiSS@gtp.transneft.ru
+SamoilenkoAS@gtp.transneft.ru
+SamoilenkoSA@gtp.transneft.ru
+SergeevichAS@gtp.transneft.ru
+SergeevichSA@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@mos.ru
+----------------
+ivanov@mos.ru
+ivanov@mos.ru
+vladislav@mos.ru
+vladislav@mos.ru
+ivanovich@mos.ru
+ivanovich@mos.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@tmn.transneft.ru
+----------------
+ivanov@tmn.transneft.ru
+ivanov@tmn.transneft.ru
+vladislav@tmn.transneft.ru
+vladislav@tmn.transneft.ru
+ivanovich@tmn.transneft.ru
+ivanovich@tmn.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_many><upper_one>@gtp.transneft.ru
+----------------
+IvanovVladislavI@gtp.transneft.ru
+IvanovIvanovichV@gtp.transneft.ru
+VladislavIvanovI@gtp.transneft.ru
+VladislavIvanovichI@gtp.transneft.ru
+IvanovichIvanovV@gtp.transneft.ru
+IvanovichVladislavI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@omg.transneft.ru
+----------------
+IvanovVI@omg.transneft.ru
+IvanovIV@omg.transneft.ru
+VladislavII@omg.transneft.ru
+VladislavII@omg.transneft.ru
+IvanovichIV@omg.transneft.ru
+IvanovichVI@omg.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@oms.transneft.ru
+----------------
+ivanov@oms.transneft.ru
+ivanov@oms.transneft.ru
+vladislav@oms.transneft.ru
+vladislav@oms.transneft.ru
+ivanovich@oms.transneft.ru
+ivanovich@oms.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@omg.transneft.ru
+----------------
+ivanov@omg.transneft.ru
+ivanov@omg.transneft.ru
+vladislav@omg.transneft.ru
+vladislav@omg.transneft.ru
+ivanovich@omg.transneft.ru
+ivanovich@omg.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@oms.transneft.ru
+----------------
+IvanovVI@oms.transneft.ru
+IvanovIV@oms.transneft.ru
+VladislavII@oms.transneft.ru
+VladislavII@oms.transneft.ru
+IvanovichIV@oms.transneft.ru
+IvanovichVI@oms.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@spb.transneft.ru
+----------------
+ivanov@spb.transneft.ru
+ivanov@spb.transneft.ru
+vladislav@spb.transneft.ru
+vladislav@spb.transneft.ru
+ivanovich@spb.transneft.ru
+ivanovich@spb.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>@gtp.transneft.ru
+----------------
+Ivanov@gtp.transneft.ru
+Ivanov@gtp.transneft.ru
+Vladislav@gtp.transneft.ru
+Vladislav@gtp.transneft.ru
+Ivanovich@gtp.transneft.ru
+Ivanovich@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sam.transneft.ru
+----------------
+ivanov@sam.transneft.ru
+ivanov@sam.transneft.ru
+vladislav@sam.transneft.ru
+vladislav@sam.transneft.ru
+ivanovich@sam.transneft.ru
+ivanovich@sam.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sam.transneft.ru
+----------------
+ivanov@sam.transneft.ru
+ivanov@sam.transneft.ru
+vladislav@sam.transneft.ru
+vladislav@sam.transneft.ru
+ivanovich@sam.transneft.ru
+ivanovich@sam.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@omg.transneft.ru
+----------------
+IvanovVI@omg.transneft.ru
+IvanovIV@omg.transneft.ru
+VladislavII@omg.transneft.ru
+VladislavII@omg.transneft.ru
+IvanovichIV@omg.transneft.ru
+IvanovichVI@omg.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sberbank-ast.ru
+----------------
+ivanov@sberbank-ast.ru
+ivanov@sberbank-ast.ru
+vladislav@sberbank-ast.ru
+vladislav@sberbank-ast.ru
+ivanovich@sberbank-ast.ru
+ivanovich@sberbank-ast.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@ctd.transneft.ru
+----------------
+ivanov@ctd.transneft.ru
+ivanov@ctd.transneft.ru
+vladislav@ctd.transneft.ru
+vladislav@ctd.transneft.ru
+ivanovich@ctd.transneft.ru
+ivanovich@ctd.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_many><upper_one>@gtp.transneft.ru
+----------------
+IvanovVladislavI@gtp.transneft.ru
+IvanovIvanovichV@gtp.transneft.ru
+VladislavIvanovI@gtp.transneft.ru
+VladislavIvanovichI@gtp.transneft.ru
+IvanovichIvanovV@gtp.transneft.ru
+IvanovichVladislavI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@tvv.transneft.ru
+----------------
+ivanov@tvv.transneft.ru
+ivanov@tvv.transneft.ru
+vladislav@tvv.transneft.ru
+vladislav@tvv.transneft.ru
+ivanovich@tvv.transneft.ru
+ivanovich@tvv.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@tmn.transneft.ru
+----------------
+IvanovVI@tmn.transneft.ru
+IvanovIV@tmn.transneft.ru
+VladislavII@tmn.transneft.ru
+VladislavII@tmn.transneft.ru
+IvanovichIV@tmn.transneft.ru
+IvanovichVI@tmn.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@gtp.transneft.ru
+----------------
+ivanov@gtp.transneft.ru
+ivanov@gtp.transneft.ru
+vladislav@gtp.transneft.ru
+vladislav@gtp.transneft.ru
+ivanovich@gtp.transneft.ru
+ivanovich@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@ooo-transneft-service.ru
+----------------
+ivanov@ooo-transneft-service.ru
+ivanov@ooo-transneft-service.ru
+vladislav@ooo-transneft-service.ru
+vladislav@ooo-transneft-service.ru
+ivanovich@ooo-transneft-service.ru
+ivanovich@ooo-transneft-service.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@ctd.transneft.ru
+----------------
+IvanovVI@ctd.transneft.ru
+IvanovIV@ctd.transneft.ru
+VladislavII@ctd.transneft.ru
+VladislavII@ctd.transneft.ru
+IvanovichIV@ctd.transneft.ru
+IvanovichVI@ctd.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@ctd.transneft.ru
+----------------
+IvanovVI@ctd.transneft.ru
+IvanovIV@ctd.transneft.ru
+VladislavII@ctd.transneft.ru
+VladislavII@ctd.transneft.ru
+IvanovichIV@ctd.transneft.ru
+IvanovichVI@ctd.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@etpgpb.ru
+----------------
+ivanov@etpgpb.ru
+ivanov@etpgpb.ru
+vladislav@etpgpb.ru
+vladislav@etpgpb.ru
+ivanovich@etpgpb.ru
+ivanovich@etpgpb.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@niitnn.transneft.ru
+----------------
+ivanov@niitnn.transneft.ru
+ivanov@niitnn.transneft.ru
+vladislav@niitnn.transneft.ru
+vladislav@niitnn.transneft.ru
+ivanovich@niitnn.transneft.ru
+ivanovich@niitnn.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@spb.transneft.ru
+----------------
+IvanovVI@spb.transneft.ru
+IvanovIV@spb.transneft.ru
+VladislavII@spb.transneft.ru
+VladislavII@spb.transneft.ru
+IvanovichIV@spb.transneft.ru
+IvanovichVI@spb.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sam.transneft.ru
+----------------
+ivanov@sam.transneft.ru
+ivanov@sam.transneft.ru
+vladislav@sam.transneft.ru
+vladislav@sam.transneft.ru
+ivanovich@sam.transneft.ru
+ivanovich@sam.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sberbank-ast.ru
+----------------
+ivanov@sberbank-ast.ru
+ivanov@sberbank-ast.ru
+vladislav@sberbank-ast.ru
+vladislav@sberbank-ast.ru
+ivanovich@sberbank-ast.ru
+ivanovich@sberbank-ast.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@sam.transneft.ru
+----------------
+IvanovVI@sam.transneft.ru
+IvanovIV@sam.transneft.ru
+VladislavII@sam.transneft.ru
+VladislavII@sam.transneft.ru
+IvanovichIV@sam.transneft.ru
+IvanovichVI@sam.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@tno.transneft.ru
+----------------
+ivanov@tno.transneft.ru
+ivanov@tno.transneft.ru
+vladislav@tno.transneft.ru
+vladislav@tno.transneft.ru
+ivanovich@tno.transneft.ru
+ivanovich@tno.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@omg.transneft.ru
+----------------
+ivanov@omg.transneft.ru
+ivanov@omg.transneft.ru
+vladislav@omg.transneft.ru
+vladislav@omg.transneft.ru
+ivanovich@omg.transneft.ru
+ivanovich@omg.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@spbex.ru
+----------------
+ivanov@spbex.ru
+ivanov@spbex.ru
+vladislav@spbex.ru
+vladislav@spbex.ru
+ivanovich@spbex.ru
+ivanovich@spbex.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@mos.ru
+----------------
+ivanov@mos.ru
+ivanov@mos.ru
+vladislav@mos.ru
+vladislav@mos.ru
+ivanovich@mos.ru
+ivanovich@mos.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@gtp.transneft.ru
+----------------
+IvanovVI@gtp.transneft.ru
+IvanovIV@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+VladislavII@gtp.transneft.ru
+IvanovichIV@gtp.transneft.ru
+IvanovichVI@gtp.transneft.ru
+----------------
+

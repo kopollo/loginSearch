@@ -1,0 +1,338 @@
+Finded emails:
+----------------
+MINikolaeva@rosatom.ru
+Imanaliyeva@rosatominternational.com
+Minikolaeva@rosatom.ru
+NVAzarina@rosatominternational.com
+DYARB@rosatom.ru.
+international_network@rosatom.ru
+info@rosatom.ru.
+0707@rosatom.ru
+Sadykova@rosatominternational.com
+ADKalachev@rosatom.ru
+arbitration@rosatom.ru
+EASudarchikova@rosatom.ru
+info@rosatom.ru
+proektnpa@rosatoin.ru
+----------------
+
+email formats:
+----------------
+<upper_one><upper_one><upper_many>@rosatom.ru
+<upper_many>@rosatominternational.com
+<upper_many>@rosatom.ru
+<upper_one><upper_one><upper_many>@rosatominternational.com
+<upper_one><upper_one><upper_one><upper_one><upper_one>@rosatom.ru.
+<lower_many>_<lower_many>@rosatom.ru
+<lower_many>@rosatom.ru.
+@rosatom.ru
+<upper_many>@rosatominternational.com
+<upper_one><upper_one><upper_many>@rosatom.ru
+<lower_many>@rosatom.ru
+<upper_one><upper_one><upper_many>@rosatom.ru
+<lower_many>@rosatom.ru
+<lower_many>@rosatoin.ru
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_many>@rosatom.ru
+----------------
+ASSergeevich@rosatom.ru
+ASSamoilenko@rosatom.ru
+SASergeevich@rosatom.ru
+SSAndrei@rosatom.ru
+SASamoilenko@rosatom.ru
+SSAndrei@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>@rosatominternational.com
+----------------
+Andrei@rosatominternational.com
+Andrei@rosatominternational.com
+Samoilenko@rosatominternational.com
+Samoilenko@rosatominternational.com
+Sergeevich@rosatominternational.com
+Sergeevich@rosatominternational.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>@rosatom.ru
+----------------
+Andrei@rosatom.ru
+Andrei@rosatom.ru
+Samoilenko@rosatom.ru
+Samoilenko@rosatom.ru
+Sergeevich@rosatom.ru
+Sergeevich@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_many>@rosatominternational.com
+----------------
+ASSergeevich@rosatominternational.com
+ASSamoilenko@rosatominternational.com
+SASergeevich@rosatominternational.com
+SSAndrei@rosatominternational.com
+SASamoilenko@rosatominternational.com
+SSAndrei@rosatominternational.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one><upper_one><upper_one>@rosatom.ru.
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<lower_many>@rosatom.ru
+----------------
+andrei_samoilenko@rosatom.ru
+andrei_sergeevich@rosatom.ru
+samoilenko_andrei@rosatom.ru
+samoilenko_sergeevich@rosatom.ru
+sergeevich_andrei@rosatom.ru
+sergeevich_samoilenko@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rosatom.ru.
+----------------
+andrei@rosatom.ru.
+andrei@rosatom.ru.
+samoilenko@rosatom.ru.
+samoilenko@rosatom.ru.
+sergeevich@rosatom.ru.
+sergeevich@rosatom.ru.
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: @rosatom.ru
+----------------
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>@rosatominternational.com
+----------------
+Andrei@rosatominternational.com
+Andrei@rosatominternational.com
+Samoilenko@rosatominternational.com
+Samoilenko@rosatominternational.com
+Sergeevich@rosatominternational.com
+Sergeevich@rosatominternational.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_many>@rosatom.ru
+----------------
+ASSergeevich@rosatom.ru
+ASSamoilenko@rosatom.ru
+SASergeevich@rosatom.ru
+SSAndrei@rosatom.ru
+SASamoilenko@rosatom.ru
+SSAndrei@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rosatom.ru
+----------------
+andrei@rosatom.ru
+andrei@rosatom.ru
+samoilenko@rosatom.ru
+samoilenko@rosatom.ru
+sergeevich@rosatom.ru
+sergeevich@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_many>@rosatom.ru
+----------------
+ASSergeevich@rosatom.ru
+ASSamoilenko@rosatom.ru
+SASergeevich@rosatom.ru
+SSAndrei@rosatom.ru
+SASamoilenko@rosatom.ru
+SSAndrei@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rosatom.ru
+----------------
+andrei@rosatom.ru
+andrei@rosatom.ru
+samoilenko@rosatom.ru
+samoilenko@rosatom.ru
+sergeevich@rosatom.ru
+sergeevich@rosatom.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rosatoin.ru
+----------------
+andrei@rosatoin.ru
+andrei@rosatoin.ru
+samoilenko@rosatoin.ru
+samoilenko@rosatoin.ru
+sergeevich@rosatoin.ru
+sergeevich@rosatoin.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_many>@rosatom.ru
+----------------
+IVIvanovich@rosatom.ru
+IIVladislav@rosatom.ru
+VIIvanovich@rosatom.ru
+VIIvanov@rosatom.ru
+IIVladislav@rosatom.ru
+IVIvanov@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>@rosatominternational.com
+----------------
+Ivanov@rosatominternational.com
+Ivanov@rosatominternational.com
+Vladislav@rosatominternational.com
+Vladislav@rosatominternational.com
+Ivanovich@rosatominternational.com
+Ivanovich@rosatominternational.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>@rosatom.ru
+----------------
+Ivanov@rosatom.ru
+Ivanov@rosatom.ru
+Vladislav@rosatom.ru
+Vladislav@rosatom.ru
+Ivanovich@rosatom.ru
+Ivanovich@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_many>@rosatominternational.com
+----------------
+IVIvanovich@rosatominternational.com
+IIVladislav@rosatominternational.com
+VIIvanovich@rosatominternational.com
+VIIvanov@rosatominternational.com
+IIVladislav@rosatominternational.com
+IVIvanov@rosatominternational.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one><upper_one><upper_one>@rosatom.ru.
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<lower_many>@rosatom.ru
+----------------
+ivanov_vladislav@rosatom.ru
+ivanov_ivanovich@rosatom.ru
+vladislav_ivanov@rosatom.ru
+vladislav_ivanovich@rosatom.ru
+ivanovich_ivanov@rosatom.ru
+ivanovich_vladislav@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rosatom.ru.
+----------------
+ivanov@rosatom.ru.
+ivanov@rosatom.ru.
+vladislav@rosatom.ru.
+vladislav@rosatom.ru.
+ivanovich@rosatom.ru.
+ivanovich@rosatom.ru.
+----------------
+
+user: Владислав Иванов ivanovich
+email format: @rosatom.ru
+----------------
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>@rosatominternational.com
+----------------
+Ivanov@rosatominternational.com
+Ivanov@rosatominternational.com
+Vladislav@rosatominternational.com
+Vladislav@rosatominternational.com
+Ivanovich@rosatominternational.com
+Ivanovich@rosatominternational.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_many>@rosatom.ru
+----------------
+IVIvanovich@rosatom.ru
+IIVladislav@rosatom.ru
+VIIvanovich@rosatom.ru
+VIIvanov@rosatom.ru
+IIVladislav@rosatom.ru
+IVIvanov@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rosatom.ru
+----------------
+ivanov@rosatom.ru
+ivanov@rosatom.ru
+vladislav@rosatom.ru
+vladislav@rosatom.ru
+ivanovich@rosatom.ru
+ivanovich@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_many>@rosatom.ru
+----------------
+IVIvanovich@rosatom.ru
+IIVladislav@rosatom.ru
+VIIvanovich@rosatom.ru
+VIIvanov@rosatom.ru
+IIVladislav@rosatom.ru
+IVIvanov@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rosatom.ru
+----------------
+ivanov@rosatom.ru
+ivanov@rosatom.ru
+vladislav@rosatom.ru
+vladislav@rosatom.ru
+ivanovich@rosatom.ru
+ivanovich@rosatom.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rosatoin.ru
+----------------
+ivanov@rosatoin.ru
+ivanov@rosatoin.ru
+vladislav@rosatoin.ru
+vladislav@rosatoin.ru
+ivanovich@rosatoin.ru
+ivanovich@rosatoin.ru
+----------------
+

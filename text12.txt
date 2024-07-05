@@ -1,0 +1,518 @@
+Finded emails:
+----------------
+consulting@omdia.com.
+Chenli5g@vivo.com
+rzheng@qti.qualcomm.com
+rmakgotlho@icasa.org.za
+citations@omdia.com.
+Ellen.xu@unisoc.com
+lihaitao@oppo.com
+cesar.gutierrez@huawei.com
+Liyanhua1@xiaomi.com
+zafercan@uludag.edu.tr
+hong@lge.com
+kostas@ece.utoronto.ca
+marta.m.tarradell@intel.com
+askananalyst@omdia.com
+naveen.palle@apple.com
+omarco@sequans.com
+yyang1@futurewei.com
+shiyulong5@huawei.com
+atoaki-hayashi@nec.com
+eganc@sun.ac.za
+jussi-pekka.koskinen@nokia.com
+----------------
+
+email formats:
+----------------
+<lower_many>@omdia.com.
+<upper_many>@vivo.com
+<lower_many>@qti.qualcomm.com
+<lower_many>@icasa.org.za
+<lower_many>@omdia.com.
+<upper_many>.<lower_many>@unisoc.com
+<lower_many>@oppo.com
+<lower_many>.<lower_many>@huawei.com
+<upper_many>@xiaomi.com
+<lower_many>@uludag.edu.tr
+<lower_many>@lge.com
+<lower_many>@ece.utoronto.ca
+<lower_many>.<lower_one>.<lower_many>@intel.com
+<lower_many>@omdia.com
+<lower_many>.<lower_many>@apple.com
+<lower_many>@sequans.com
+<lower_many>@futurewei.com
+<lower_many>@huawei.com
+<lower_many>-<lower_many>@nec.com
+<lower_many>@sun.ac.za
+<lower_many>-<lower_many>.<lower_many>@nokia.com
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@omdia.com.
+----------------
+andrei@omdia.com.
+andrei@omdia.com.
+samoilenko@omdia.com.
+samoilenko@omdia.com.
+sergeevich@omdia.com.
+sergeevich@omdia.com.
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>@vivo.com
+----------------
+Andrei@vivo.com
+Andrei@vivo.com
+Samoilenko@vivo.com
+Samoilenko@vivo.com
+Sergeevich@vivo.com
+Sergeevich@vivo.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@qti.qualcomm.com
+----------------
+andrei@qti.qualcomm.com
+andrei@qti.qualcomm.com
+samoilenko@qti.qualcomm.com
+samoilenko@qti.qualcomm.com
+sergeevich@qti.qualcomm.com
+sergeevich@qti.qualcomm.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@icasa.org.za
+----------------
+andrei@icasa.org.za
+andrei@icasa.org.za
+samoilenko@icasa.org.za
+samoilenko@icasa.org.za
+sergeevich@icasa.org.za
+sergeevich@icasa.org.za
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@omdia.com.
+----------------
+andrei@omdia.com.
+andrei@omdia.com.
+samoilenko@omdia.com.
+samoilenko@omdia.com.
+sergeevich@omdia.com.
+sergeevich@omdia.com.
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>.<lower_many>@unisoc.com
+----------------
+Andrei.samoilenko@unisoc.com
+Andrei.sergeevich@unisoc.com
+Samoilenko.andrei@unisoc.com
+Samoilenko.sergeevich@unisoc.com
+Sergeevich.andrei@unisoc.com
+Sergeevich.samoilenko@unisoc.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@oppo.com
+----------------
+andrei@oppo.com
+andrei@oppo.com
+samoilenko@oppo.com
+samoilenko@oppo.com
+sergeevich@oppo.com
+sergeevich@oppo.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>.<lower_many>@huawei.com
+----------------
+andrei.samoilenko@huawei.com
+andrei.sergeevich@huawei.com
+samoilenko.andrei@huawei.com
+samoilenko.sergeevich@huawei.com
+sergeevich.andrei@huawei.com
+sergeevich.samoilenko@huawei.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>@xiaomi.com
+----------------
+Andrei@xiaomi.com
+Andrei@xiaomi.com
+Samoilenko@xiaomi.com
+Samoilenko@xiaomi.com
+Sergeevich@xiaomi.com
+Sergeevich@xiaomi.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@uludag.edu.tr
+----------------
+andrei@uludag.edu.tr
+andrei@uludag.edu.tr
+samoilenko@uludag.edu.tr
+samoilenko@uludag.edu.tr
+sergeevich@uludag.edu.tr
+sergeevich@uludag.edu.tr
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@lge.com
+----------------
+andrei@lge.com
+andrei@lge.com
+samoilenko@lge.com
+samoilenko@lge.com
+sergeevich@lge.com
+sergeevich@lge.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@ece.utoronto.ca
+----------------
+andrei@ece.utoronto.ca
+andrei@ece.utoronto.ca
+samoilenko@ece.utoronto.ca
+samoilenko@ece.utoronto.ca
+sergeevich@ece.utoronto.ca
+sergeevich@ece.utoronto.ca
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>.<lower_one>.<lower_many>@intel.com
+----------------
+andrei.s.sergeevich@intel.com
+andrei.s.samoilenko@intel.com
+samoilenko.a.sergeevich@intel.com
+samoilenko.s.andrei@intel.com
+sergeevich.a.samoilenko@intel.com
+sergeevich.s.andrei@intel.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@omdia.com
+----------------
+andrei@omdia.com
+andrei@omdia.com
+samoilenko@omdia.com
+samoilenko@omdia.com
+sergeevich@omdia.com
+sergeevich@omdia.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>.<lower_many>@apple.com
+----------------
+andrei.samoilenko@apple.com
+andrei.sergeevich@apple.com
+samoilenko.andrei@apple.com
+samoilenko.sergeevich@apple.com
+sergeevich.andrei@apple.com
+sergeevich.samoilenko@apple.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sequans.com
+----------------
+andrei@sequans.com
+andrei@sequans.com
+samoilenko@sequans.com
+samoilenko@sequans.com
+sergeevich@sequans.com
+sergeevich@sequans.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@futurewei.com
+----------------
+andrei@futurewei.com
+andrei@futurewei.com
+samoilenko@futurewei.com
+samoilenko@futurewei.com
+sergeevich@futurewei.com
+sergeevich@futurewei.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@huawei.com
+----------------
+andrei@huawei.com
+andrei@huawei.com
+samoilenko@huawei.com
+samoilenko@huawei.com
+sergeevich@huawei.com
+sergeevich@huawei.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>-<lower_many>@nec.com
+----------------
+andrei-samoilenko@nec.com
+andrei-sergeevich@nec.com
+samoilenko-andrei@nec.com
+samoilenko-sergeevich@nec.com
+sergeevich-andrei@nec.com
+sergeevich-samoilenko@nec.com
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sun.ac.za
+----------------
+andrei@sun.ac.za
+andrei@sun.ac.za
+samoilenko@sun.ac.za
+samoilenko@sun.ac.za
+sergeevich@sun.ac.za
+sergeevich@sun.ac.za
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>-<lower_many>.<lower_many>@nokia.com
+----------------
+andrei-samoilenko.sergeevich@nokia.com
+andrei-sergeevich.samoilenko@nokia.com
+samoilenko-andrei.sergeevich@nokia.com
+samoilenko-sergeevich.andrei@nokia.com
+sergeevich-andrei.samoilenko@nokia.com
+sergeevich-samoilenko.andrei@nokia.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@omdia.com.
+----------------
+ivanov@omdia.com.
+ivanov@omdia.com.
+vladislav@omdia.com.
+vladislav@omdia.com.
+ivanovich@omdia.com.
+ivanovich@omdia.com.
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>@vivo.com
+----------------
+Ivanov@vivo.com
+Ivanov@vivo.com
+Vladislav@vivo.com
+Vladislav@vivo.com
+Ivanovich@vivo.com
+Ivanovich@vivo.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@qti.qualcomm.com
+----------------
+ivanov@qti.qualcomm.com
+ivanov@qti.qualcomm.com
+vladislav@qti.qualcomm.com
+vladislav@qti.qualcomm.com
+ivanovich@qti.qualcomm.com
+ivanovich@qti.qualcomm.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@icasa.org.za
+----------------
+ivanov@icasa.org.za
+ivanov@icasa.org.za
+vladislav@icasa.org.za
+vladislav@icasa.org.za
+ivanovich@icasa.org.za
+ivanovich@icasa.org.za
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@omdia.com.
+----------------
+ivanov@omdia.com.
+ivanov@omdia.com.
+vladislav@omdia.com.
+vladislav@omdia.com.
+ivanovich@omdia.com.
+ivanovich@omdia.com.
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>.<lower_many>@unisoc.com
+----------------
+Ivanov.vladislav@unisoc.com
+Ivanov.ivanovich@unisoc.com
+Vladislav.ivanov@unisoc.com
+Vladislav.ivanovich@unisoc.com
+Ivanovich.ivanov@unisoc.com
+Ivanovich.vladislav@unisoc.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@oppo.com
+----------------
+ivanov@oppo.com
+ivanov@oppo.com
+vladislav@oppo.com
+vladislav@oppo.com
+ivanovich@oppo.com
+ivanovich@oppo.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>.<lower_many>@huawei.com
+----------------
+ivanov.vladislav@huawei.com
+ivanov.ivanovich@huawei.com
+vladislav.ivanov@huawei.com
+vladislav.ivanovich@huawei.com
+ivanovich.ivanov@huawei.com
+ivanovich.vladislav@huawei.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>@xiaomi.com
+----------------
+Ivanov@xiaomi.com
+Ivanov@xiaomi.com
+Vladislav@xiaomi.com
+Vladislav@xiaomi.com
+Ivanovich@xiaomi.com
+Ivanovich@xiaomi.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@uludag.edu.tr
+----------------
+ivanov@uludag.edu.tr
+ivanov@uludag.edu.tr
+vladislav@uludag.edu.tr
+vladislav@uludag.edu.tr
+ivanovich@uludag.edu.tr
+ivanovich@uludag.edu.tr
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@lge.com
+----------------
+ivanov@lge.com
+ivanov@lge.com
+vladislav@lge.com
+vladislav@lge.com
+ivanovich@lge.com
+ivanovich@lge.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@ece.utoronto.ca
+----------------
+ivanov@ece.utoronto.ca
+ivanov@ece.utoronto.ca
+vladislav@ece.utoronto.ca
+vladislav@ece.utoronto.ca
+ivanovich@ece.utoronto.ca
+ivanovich@ece.utoronto.ca
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>.<lower_one>.<lower_many>@intel.com
+----------------
+ivanov.v.ivanovich@intel.com
+ivanov.i.vladislav@intel.com
+vladislav.i.ivanovich@intel.com
+vladislav.i.ivanov@intel.com
+ivanovich.i.vladislav@intel.com
+ivanovich.v.ivanov@intel.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@omdia.com
+----------------
+ivanov@omdia.com
+ivanov@omdia.com
+vladislav@omdia.com
+vladislav@omdia.com
+ivanovich@omdia.com
+ivanovich@omdia.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>.<lower_many>@apple.com
+----------------
+ivanov.vladislav@apple.com
+ivanov.ivanovich@apple.com
+vladislav.ivanov@apple.com
+vladislav.ivanovich@apple.com
+ivanovich.ivanov@apple.com
+ivanovich.vladislav@apple.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sequans.com
+----------------
+ivanov@sequans.com
+ivanov@sequans.com
+vladislav@sequans.com
+vladislav@sequans.com
+ivanovich@sequans.com
+ivanovich@sequans.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@futurewei.com
+----------------
+ivanov@futurewei.com
+ivanov@futurewei.com
+vladislav@futurewei.com
+vladislav@futurewei.com
+ivanovich@futurewei.com
+ivanovich@futurewei.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@huawei.com
+----------------
+ivanov@huawei.com
+ivanov@huawei.com
+vladislav@huawei.com
+vladislav@huawei.com
+ivanovich@huawei.com
+ivanovich@huawei.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>-<lower_many>@nec.com
+----------------
+ivanov-vladislav@nec.com
+ivanov-ivanovich@nec.com
+vladislav-ivanov@nec.com
+vladislav-ivanovich@nec.com
+ivanovich-ivanov@nec.com
+ivanovich-vladislav@nec.com
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sun.ac.za
+----------------
+ivanov@sun.ac.za
+ivanov@sun.ac.za
+vladislav@sun.ac.za
+vladislav@sun.ac.za
+ivanovich@sun.ac.za
+ivanovich@sun.ac.za
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>-<lower_many>.<lower_many>@nokia.com
+----------------
+ivanov-vladislav.ivanovich@nokia.com
+ivanov-ivanovich.vladislav@nokia.com
+vladislav-ivanov.ivanovich@nokia.com
+vladislav-ivanovich.ivanov@nokia.com
+ivanovich-ivanov.vladislav@nokia.com
+ivanovich-vladislav.ivanov@nokia.com
+----------------
+

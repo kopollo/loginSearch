@@ -1,0 +1,1298 @@
+Finded emails:
+----------------
+KharybinAA@rnmsk.rosneft.ru
+GertelPV@snkng.rosneft.ru
+pass_NVL_NL@snkng.ru
+NVL_NL@snkng.ru
+OvsyannikovaTN@rnmsk.rosneft.ru
+SigovMV@rnmsk.rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+PotlogAK@rnmsk.rosneft.ru
+SerikovMI@rn-msk.ru
+GorbenkoEV@rnmsk.rosneft.ru
+OvsyannikovaTN@rnmsk.rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+SerikovMI@rnmsk.rosneft.ru
+SerikovMI@rn-msk.ru
+OvsyannikovaTN@rnmsk.rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+OvsyannikovaTN@rnmsk.rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+KokanovaEV@rnmsk.rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+SerikovMI@rnmsk.rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+ManapovaMN@rnmsk.rosneft.ru
+SerikovMI@rnmsk.rosneft.ru
+SerikovMI@rn-msk.ru
+n.kuzmina@bashneft.ru
+n.kuzmina@bn.rosneft.ru
+n.kuzmina@bn.rosneft.ru
+SHIRCHKOVVV@bn.rosneft.ru
+demurals@rnsha-ys.rosneft.ru
+sec_hotline@rosneft.ru
+ignatovrm@rnsha-ys.rosneft.ru
+d_ivkin@rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+SerikovMI@rnmsk.rosneft.ru
+d_ivkin@rosneft.ru
+rnmsk@rnmsk.rosneft.ru
+SerikovMI@rnmsk.rosneft.ru
+realization@rnsha.rosneft.ru
+yunkv@rnsha-ys.rosneft.ru
+n_borisycheva@rn-exp.rosneft.ru
+sec_hotline@rosneft.ru
+ManapovaMN@rnmsk.rosneft.ru
+SerikovMI@rnmsk.rosneft.ru
+GertelPV@snkng.rosneft.ru
+pass_NVL_NL@snkng.ru
+NVL_NL@snkng.ru
+AKOLZINAMA@bn.rosneft.ru
+n.kuzmina@bn.rosneft.ru
+n.kuzmina@bn.rosneft.ru
+ntc@ntc.rosneft.ru
+asstadnikov@rn-exp.rosneft.ru
+sec_hotline@rosneft.ru
+pass_NVL_NL@snkng.ru
+NVL_NL@snkng.ru
+RW@nkrm.rosneft.ru
+DispetcherRNT@rn-trans.ru
+SerikovMI@rnmsk.rosneft.ru.
+----------------
+
+email formats:
+----------------
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@snkng.rosneft.ru
+<lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rn-msk.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rn-msk.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rn-msk.ru
+<lower_one>.<lower_many>@bashneft.ru
+<lower_one>.<lower_many>@bn.rosneft.ru
+<lower_one>.<lower_many>@bn.rosneft.ru
+<upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one>@bn.rosneft.ru
+<lower_many>@rnsha-ys.rosneft.ru
+<lower_many>_<lower_many>@rosneft.ru
+<lower_many>@rnsha-ys.rosneft.ru
+<lower_one>_<lower_many>@rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_one>_<lower_many>@rosneft.ru
+<lower_many>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<lower_many>@rnsha.rosneft.ru
+<lower_many>@rnsha-ys.rosneft.ru
+<lower_one>_<lower_many>@rn-exp.rosneft.ru
+<lower_many>_<lower_many>@rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+<upper_many><upper_one><upper_one>@snkng.rosneft.ru
+<lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+<upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one>@bn.rosneft.ru
+<lower_one>.<lower_many>@bn.rosneft.ru
+<lower_one>.<lower_many>@bn.rosneft.ru
+<lower_many>@ntc.rosneft.ru
+<lower_many>@rn-exp.rosneft.ru
+<lower_many>_<lower_many>@rosneft.ru
+<lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+<upper_one><upper_one>@nkrm.rosneft.ru
+<upper_many><upper_one><upper_one><upper_one>@rn-trans.ru
+<upper_many><upper_one><upper_one>@rnmsk.rosneft.ru.
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@snkng.rosneft.ru
+----------------
+AndreiSS@snkng.rosneft.ru
+AndreiSS@snkng.rosneft.ru
+SamoilenkoAS@snkng.rosneft.ru
+SamoilenkoSA@snkng.rosneft.ru
+SergeevichAS@snkng.rosneft.ru
+SergeevichSA@snkng.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rn-msk.ru
+----------------
+AndreiSS@rn-msk.ru
+AndreiSS@rn-msk.ru
+SamoilenkoAS@rn-msk.ru
+SamoilenkoSA@rn-msk.ru
+SergeevichAS@rn-msk.ru
+SergeevichSA@rn-msk.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rn-msk.ru
+----------------
+AndreiSS@rn-msk.ru
+AndreiSS@rn-msk.ru
+SamoilenkoAS@rn-msk.ru
+SamoilenkoSA@rn-msk.ru
+SergeevichAS@rn-msk.ru
+SergeevichSA@rn-msk.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rn-msk.ru
+----------------
+AndreiSS@rn-msk.ru
+AndreiSS@rn-msk.ru
+SamoilenkoAS@rn-msk.ru
+SamoilenkoSA@rn-msk.ru
+SergeevichAS@rn-msk.ru
+SergeevichSA@rn-msk.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>.<lower_many>@bashneft.ru
+----------------
+a.samoilenko@bashneft.ru
+a.sergeevich@bashneft.ru
+s.andrei@bashneft.ru
+s.sergeevich@bashneft.ru
+s.andrei@bashneft.ru
+s.samoilenko@bashneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+a.samoilenko@bn.rosneft.ru
+a.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.samoilenko@bn.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+a.samoilenko@bn.rosneft.ru
+a.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.samoilenko@bn.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one>@bn.rosneft.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnsha-ys.rosneft.ru
+----------------
+andrei@rnsha-ys.rosneft.ru
+andrei@rnsha-ys.rosneft.ru
+samoilenko@rnsha-ys.rosneft.ru
+samoilenko@rnsha-ys.rosneft.ru
+sergeevich@rnsha-ys.rosneft.ru
+sergeevich@rnsha-ys.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<lower_many>@rosneft.ru
+----------------
+andrei_samoilenko@rosneft.ru
+andrei_sergeevich@rosneft.ru
+samoilenko_andrei@rosneft.ru
+samoilenko_sergeevich@rosneft.ru
+sergeevich_andrei@rosneft.ru
+sergeevich_samoilenko@rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnsha-ys.rosneft.ru
+----------------
+andrei@rnsha-ys.rosneft.ru
+andrei@rnsha-ys.rosneft.ru
+samoilenko@rnsha-ys.rosneft.ru
+samoilenko@rnsha-ys.rosneft.ru
+sergeevich@rnsha-ys.rosneft.ru
+sergeevich@rnsha-ys.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>_<lower_many>@rosneft.ru
+----------------
+a_samoilenko@rosneft.ru
+a_sergeevich@rosneft.ru
+s_andrei@rosneft.ru
+s_sergeevich@rosneft.ru
+s_andrei@rosneft.ru
+s_samoilenko@rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>_<lower_many>@rosneft.ru
+----------------
+a_samoilenko@rosneft.ru
+a_sergeevich@rosneft.ru
+s_andrei@rosneft.ru
+s_sergeevich@rosneft.ru
+s_andrei@rosneft.ru
+s_samoilenko@rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+andrei@rnmsk.rosneft.ru
+andrei@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+samoilenko@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+sergeevich@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnsha.rosneft.ru
+----------------
+andrei@rnsha.rosneft.ru
+andrei@rnsha.rosneft.ru
+samoilenko@rnsha.rosneft.ru
+samoilenko@rnsha.rosneft.ru
+sergeevich@rnsha.rosneft.ru
+sergeevich@rnsha.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rnsha-ys.rosneft.ru
+----------------
+andrei@rnsha-ys.rosneft.ru
+andrei@rnsha-ys.rosneft.ru
+samoilenko@rnsha-ys.rosneft.ru
+samoilenko@rnsha-ys.rosneft.ru
+sergeevich@rnsha-ys.rosneft.ru
+sergeevich@rnsha-ys.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>_<lower_many>@rn-exp.rosneft.ru
+----------------
+a_samoilenko@rn-exp.rosneft.ru
+a_sergeevich@rn-exp.rosneft.ru
+s_andrei@rn-exp.rosneft.ru
+s_sergeevich@rn-exp.rosneft.ru
+s_andrei@rn-exp.rosneft.ru
+s_samoilenko@rn-exp.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<lower_many>@rosneft.ru
+----------------
+andrei_samoilenko@rosneft.ru
+andrei_sergeevich@rosneft.ru
+samoilenko_andrei@rosneft.ru
+samoilenko_sergeevich@rosneft.ru
+sergeevich_andrei@rosneft.ru
+sergeevich_samoilenko@rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+AndreiSS@rnmsk.rosneft.ru
+AndreiSS@rnmsk.rosneft.ru
+SamoilenkoAS@rnmsk.rosneft.ru
+SamoilenkoSA@rnmsk.rosneft.ru
+SergeevichAS@rnmsk.rosneft.ru
+SergeevichSA@rnmsk.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@snkng.rosneft.ru
+----------------
+AndreiSS@snkng.rosneft.ru
+AndreiSS@snkng.rosneft.ru
+SamoilenkoAS@snkng.rosneft.ru
+SamoilenkoSA@snkng.rosneft.ru
+SergeevichAS@snkng.rosneft.ru
+SergeevichSA@snkng.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one>@bn.rosneft.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+a.samoilenko@bn.rosneft.ru
+a.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.samoilenko@bn.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+a.samoilenko@bn.rosneft.ru
+a.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.sergeevich@bn.rosneft.ru
+s.andrei@bn.rosneft.ru
+s.samoilenko@bn.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@ntc.rosneft.ru
+----------------
+andrei@ntc.rosneft.ru
+andrei@ntc.rosneft.ru
+samoilenko@ntc.rosneft.ru
+samoilenko@ntc.rosneft.ru
+sergeevich@ntc.rosneft.ru
+sergeevich@ntc.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@rn-exp.rosneft.ru
+----------------
+andrei@rn-exp.rosneft.ru
+andrei@rn-exp.rosneft.ru
+samoilenko@rn-exp.rosneft.ru
+samoilenko@rn-exp.rosneft.ru
+sergeevich@rn-exp.rosneft.ru
+sergeevich@rn-exp.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<lower_many>@rosneft.ru
+----------------
+andrei_samoilenko@rosneft.ru
+andrei_sergeevich@rosneft.ru
+samoilenko_andrei@rosneft.ru
+samoilenko_sergeevich@rosneft.ru
+sergeevich_andrei@rosneft.ru
+sergeevich_samoilenko@rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one>@nkrm.rosneft.ru
+----------------
+AS@nkrm.rosneft.ru
+AS@nkrm.rosneft.ru
+SA@nkrm.rosneft.ru
+SS@nkrm.rosneft.ru
+SA@nkrm.rosneft.ru
+SS@nkrm.rosneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one><upper_one>@rn-trans.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru.
+----------------
+AndreiSS@rnmsk.rosneft.ru.
+AndreiSS@rnmsk.rosneft.ru.
+SamoilenkoAS@rnmsk.rosneft.ru.
+SamoilenkoSA@rnmsk.rosneft.ru.
+SergeevichAS@rnmsk.rosneft.ru.
+SergeevichSA@rnmsk.rosneft.ru.
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@snkng.rosneft.ru
+----------------
+IvanovVI@snkng.rosneft.ru
+IvanovIV@snkng.rosneft.ru
+VladislavII@snkng.rosneft.ru
+VladislavII@snkng.rosneft.ru
+IvanovichIV@snkng.rosneft.ru
+IvanovichVI@snkng.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rn-msk.ru
+----------------
+IvanovVI@rn-msk.ru
+IvanovIV@rn-msk.ru
+VladislavII@rn-msk.ru
+VladislavII@rn-msk.ru
+IvanovichIV@rn-msk.ru
+IvanovichVI@rn-msk.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rn-msk.ru
+----------------
+IvanovVI@rn-msk.ru
+IvanovIV@rn-msk.ru
+VladislavII@rn-msk.ru
+VladislavII@rn-msk.ru
+IvanovichIV@rn-msk.ru
+IvanovichVI@rn-msk.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rn-msk.ru
+----------------
+IvanovVI@rn-msk.ru
+IvanovIV@rn-msk.ru
+VladislavII@rn-msk.ru
+VladislavII@rn-msk.ru
+IvanovichIV@rn-msk.ru
+IvanovichVI@rn-msk.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>.<lower_many>@bashneft.ru
+----------------
+i.vladislav@bashneft.ru
+i.ivanovich@bashneft.ru
+v.ivanov@bashneft.ru
+v.ivanovich@bashneft.ru
+i.ivanov@bashneft.ru
+i.vladislav@bashneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+i.vladislav@bn.rosneft.ru
+i.ivanovich@bn.rosneft.ru
+v.ivanov@bn.rosneft.ru
+v.ivanovich@bn.rosneft.ru
+i.ivanov@bn.rosneft.ru
+i.vladislav@bn.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+i.vladislav@bn.rosneft.ru
+i.ivanovich@bn.rosneft.ru
+v.ivanov@bn.rosneft.ru
+v.ivanovich@bn.rosneft.ru
+i.ivanov@bn.rosneft.ru
+i.vladislav@bn.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one>@bn.rosneft.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnsha-ys.rosneft.ru
+----------------
+ivanov@rnsha-ys.rosneft.ru
+ivanov@rnsha-ys.rosneft.ru
+vladislav@rnsha-ys.rosneft.ru
+vladislav@rnsha-ys.rosneft.ru
+ivanovich@rnsha-ys.rosneft.ru
+ivanovich@rnsha-ys.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<lower_many>@rosneft.ru
+----------------
+ivanov_vladislav@rosneft.ru
+ivanov_ivanovich@rosneft.ru
+vladislav_ivanov@rosneft.ru
+vladislav_ivanovich@rosneft.ru
+ivanovich_ivanov@rosneft.ru
+ivanovich_vladislav@rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnsha-ys.rosneft.ru
+----------------
+ivanov@rnsha-ys.rosneft.ru
+ivanov@rnsha-ys.rosneft.ru
+vladislav@rnsha-ys.rosneft.ru
+vladislav@rnsha-ys.rosneft.ru
+ivanovich@rnsha-ys.rosneft.ru
+ivanovich@rnsha-ys.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>_<lower_many>@rosneft.ru
+----------------
+i_vladislav@rosneft.ru
+i_ivanovich@rosneft.ru
+v_ivanov@rosneft.ru
+v_ivanovich@rosneft.ru
+i_ivanov@rosneft.ru
+i_vladislav@rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>_<lower_many>@rosneft.ru
+----------------
+i_vladislav@rosneft.ru
+i_ivanovich@rosneft.ru
+v_ivanov@rosneft.ru
+v_ivanovich@rosneft.ru
+i_ivanov@rosneft.ru
+i_vladislav@rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnmsk.rosneft.ru
+----------------
+ivanov@rnmsk.rosneft.ru
+ivanov@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+vladislav@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+ivanovich@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnsha.rosneft.ru
+----------------
+ivanov@rnsha.rosneft.ru
+ivanov@rnsha.rosneft.ru
+vladislav@rnsha.rosneft.ru
+vladislav@rnsha.rosneft.ru
+ivanovich@rnsha.rosneft.ru
+ivanovich@rnsha.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rnsha-ys.rosneft.ru
+----------------
+ivanov@rnsha-ys.rosneft.ru
+ivanov@rnsha-ys.rosneft.ru
+vladislav@rnsha-ys.rosneft.ru
+vladislav@rnsha-ys.rosneft.ru
+ivanovich@rnsha-ys.rosneft.ru
+ivanovich@rnsha-ys.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>_<lower_many>@rn-exp.rosneft.ru
+----------------
+i_vladislav@rn-exp.rosneft.ru
+i_ivanovich@rn-exp.rosneft.ru
+v_ivanov@rn-exp.rosneft.ru
+v_ivanovich@rn-exp.rosneft.ru
+i_ivanov@rn-exp.rosneft.ru
+i_vladislav@rn-exp.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<lower_many>@rosneft.ru
+----------------
+ivanov_vladislav@rosneft.ru
+ivanov_ivanovich@rosneft.ru
+vladislav_ivanov@rosneft.ru
+vladislav_ivanovich@rosneft.ru
+ivanovich_ivanov@rosneft.ru
+ivanovich_vladislav@rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru
+----------------
+IvanovVI@rnmsk.rosneft.ru
+IvanovIV@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+VladislavII@rnmsk.rosneft.ru
+IvanovichIV@rnmsk.rosneft.ru
+IvanovichVI@rnmsk.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@snkng.rosneft.ru
+----------------
+IvanovVI@snkng.rosneft.ru
+IvanovIV@snkng.rosneft.ru
+VladislavII@snkng.rosneft.ru
+VladislavII@snkng.rosneft.ru
+IvanovichIV@snkng.rosneft.ru
+IvanovichVI@snkng.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one><upper_one>@bn.rosneft.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+i.vladislav@bn.rosneft.ru
+i.ivanovich@bn.rosneft.ru
+v.ivanov@bn.rosneft.ru
+v.ivanovich@bn.rosneft.ru
+i.ivanov@bn.rosneft.ru
+i.vladislav@bn.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>.<lower_many>@bn.rosneft.ru
+----------------
+i.vladislav@bn.rosneft.ru
+i.ivanovich@bn.rosneft.ru
+v.ivanov@bn.rosneft.ru
+v.ivanovich@bn.rosneft.ru
+i.ivanov@bn.rosneft.ru
+i.vladislav@bn.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@ntc.rosneft.ru
+----------------
+ivanov@ntc.rosneft.ru
+ivanov@ntc.rosneft.ru
+vladislav@ntc.rosneft.ru
+vladislav@ntc.rosneft.ru
+ivanovich@ntc.rosneft.ru
+ivanovich@ntc.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@rn-exp.rosneft.ru
+----------------
+ivanov@rn-exp.rosneft.ru
+ivanov@rn-exp.rosneft.ru
+vladislav@rn-exp.rosneft.ru
+vladislav@rn-exp.rosneft.ru
+ivanovich@rn-exp.rosneft.ru
+ivanovich@rn-exp.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<lower_many>@rosneft.ru
+----------------
+ivanov_vladislav@rosneft.ru
+ivanov_ivanovich@rosneft.ru
+vladislav_ivanov@rosneft.ru
+vladislav_ivanovich@rosneft.ru
+ivanovich_ivanov@rosneft.ru
+ivanovich_vladislav@rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>_<upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one>_<upper_one><upper_one>@snkng.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one>@nkrm.rosneft.ru
+----------------
+IV@nkrm.rosneft.ru
+II@nkrm.rosneft.ru
+VI@nkrm.rosneft.ru
+VI@nkrm.rosneft.ru
+II@nkrm.rosneft.ru
+IV@nkrm.rosneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one><upper_one>@rn-trans.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@rnmsk.rosneft.ru.
+----------------
+IvanovVI@rnmsk.rosneft.ru.
+IvanovIV@rnmsk.rosneft.ru.
+VladislavII@rnmsk.rosneft.ru.
+VladislavII@rnmsk.rosneft.ru.
+IvanovichIV@rnmsk.rosneft.ru.
+IvanovichVI@rnmsk.rosneft.ru.
+----------------
+

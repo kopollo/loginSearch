@@ -1,0 +1,386 @@
+Finded emails:
+----------------
+mail@novatek-azk.ru
+BogolyubovaTS@bfprint.ru
+info@minta24.ru
+bogolyubovats@bfprint.ru
+O.Filippovskaia@kostroma.novatek.ru
+info@gas-kostroma.ru
+tupikov.eb@novatek-azk.ru
+d.kuzmin@kostroma.novatek.ru
+A.Y.Lukin@kostroma.novatek.ru
+org@kostroma.novatek.ru
+gordeev.av@novatek-azk.ru
+pp@kostroma.novatek.ru
+nocorruption@gas-kostroma.ru
+CISSupport@huawei.com
+info@kostroma.novatek.ru
+D.Kuzmin@gas-kostroma.ru
+----------------
+
+email formats:
+----------------
+<lower_many>@novatek-azk.ru
+<upper_many><upper_one><upper_one>@bfprint.ru
+<lower_many>@minta24.ru
+<lower_many>@bfprint.ru
+<upper_one>.<upper_many>@kostroma.novatek.ru
+<lower_many>@gas-kostroma.ru
+<lower_many>.<lower_many>@novatek-azk.ru
+<lower_one>.<lower_many>@kostroma.novatek.ru
+<upper_one>.<upper_one>.<upper_many>@kostroma.novatek.ru
+<lower_many>@kostroma.novatek.ru
+<lower_many>.<lower_many>@novatek-azk.ru
+<lower_many>@kostroma.novatek.ru
+<lower_many>@gas-kostroma.ru
+<upper_one><upper_one><upper_one><upper_many>@huawei.com
+<lower_many>@kostroma.novatek.ru
+<upper_one>.<upper_many>@gas-kostroma.ru
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@novatek-azk.ru
+----------------
+andrei@novatek-azk.ru
+andrei@novatek-azk.ru
+samoilenko@novatek-azk.ru
+samoilenko@novatek-azk.ru
+sergeevich@novatek-azk.ru
+sergeevich@novatek-azk.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many><upper_one><upper_one>@bfprint.ru
+----------------
+AndreiSS@bfprint.ru
+AndreiSS@bfprint.ru
+SamoilenkoAS@bfprint.ru
+SamoilenkoSA@bfprint.ru
+SergeevichAS@bfprint.ru
+SergeevichSA@bfprint.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@minta24.ru
+----------------
+andrei@minta24.ru
+andrei@minta24.ru
+samoilenko@minta24.ru
+samoilenko@minta24.ru
+sergeevich@minta24.ru
+sergeevich@minta24.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@bfprint.ru
+----------------
+andrei@bfprint.ru
+andrei@bfprint.ru
+samoilenko@bfprint.ru
+samoilenko@bfprint.ru
+sergeevich@bfprint.ru
+sergeevich@bfprint.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one>.<upper_many>@kostroma.novatek.ru
+----------------
+A.Samoilenko@kostroma.novatek.ru
+A.Sergeevich@kostroma.novatek.ru
+S.Andrei@kostroma.novatek.ru
+S.Sergeevich@kostroma.novatek.ru
+S.Andrei@kostroma.novatek.ru
+S.Samoilenko@kostroma.novatek.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@gas-kostroma.ru
+----------------
+andrei@gas-kostroma.ru
+andrei@gas-kostroma.ru
+samoilenko@gas-kostroma.ru
+samoilenko@gas-kostroma.ru
+sergeevich@gas-kostroma.ru
+sergeevich@gas-kostroma.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>.<lower_many>@novatek-azk.ru
+----------------
+andrei.samoilenko@novatek-azk.ru
+andrei.sergeevich@novatek-azk.ru
+samoilenko.andrei@novatek-azk.ru
+samoilenko.sergeevich@novatek-azk.ru
+sergeevich.andrei@novatek-azk.ru
+sergeevich.samoilenko@novatek-azk.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_one>.<lower_many>@kostroma.novatek.ru
+----------------
+a.samoilenko@kostroma.novatek.ru
+a.sergeevich@kostroma.novatek.ru
+s.andrei@kostroma.novatek.ru
+s.sergeevich@kostroma.novatek.ru
+s.andrei@kostroma.novatek.ru
+s.samoilenko@kostroma.novatek.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one>.<upper_one>.<upper_many>@kostroma.novatek.ru
+----------------
+A.S.Sergeevich@kostroma.novatek.ru
+A.S.Samoilenko@kostroma.novatek.ru
+S.A.Sergeevich@kostroma.novatek.ru
+S.S.Andrei@kostroma.novatek.ru
+S.A.Samoilenko@kostroma.novatek.ru
+S.S.Andrei@kostroma.novatek.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@kostroma.novatek.ru
+----------------
+andrei@kostroma.novatek.ru
+andrei@kostroma.novatek.ru
+samoilenko@kostroma.novatek.ru
+samoilenko@kostroma.novatek.ru
+sergeevich@kostroma.novatek.ru
+sergeevich@kostroma.novatek.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>.<lower_many>@novatek-azk.ru
+----------------
+andrei.samoilenko@novatek-azk.ru
+andrei.sergeevich@novatek-azk.ru
+samoilenko.andrei@novatek-azk.ru
+samoilenko.sergeevich@novatek-azk.ru
+sergeevich.andrei@novatek-azk.ru
+sergeevich.samoilenko@novatek-azk.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@kostroma.novatek.ru
+----------------
+andrei@kostroma.novatek.ru
+andrei@kostroma.novatek.ru
+samoilenko@kostroma.novatek.ru
+samoilenko@kostroma.novatek.ru
+sergeevich@kostroma.novatek.ru
+sergeevich@kostroma.novatek.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@gas-kostroma.ru
+----------------
+andrei@gas-kostroma.ru
+andrei@gas-kostroma.ru
+samoilenko@gas-kostroma.ru
+samoilenko@gas-kostroma.ru
+sergeevich@gas-kostroma.ru
+sergeevich@gas-kostroma.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one><upper_many>@huawei.com
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@kostroma.novatek.ru
+----------------
+andrei@kostroma.novatek.ru
+andrei@kostroma.novatek.ru
+samoilenko@kostroma.novatek.ru
+samoilenko@kostroma.novatek.ru
+sergeevich@kostroma.novatek.ru
+sergeevich@kostroma.novatek.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one>.<upper_many>@gas-kostroma.ru
+----------------
+A.Samoilenko@gas-kostroma.ru
+A.Sergeevich@gas-kostroma.ru
+S.Andrei@gas-kostroma.ru
+S.Sergeevich@gas-kostroma.ru
+S.Andrei@gas-kostroma.ru
+S.Samoilenko@gas-kostroma.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@novatek-azk.ru
+----------------
+ivanov@novatek-azk.ru
+ivanov@novatek-azk.ru
+vladislav@novatek-azk.ru
+vladislav@novatek-azk.ru
+ivanovich@novatek-azk.ru
+ivanovich@novatek-azk.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many><upper_one><upper_one>@bfprint.ru
+----------------
+IvanovVI@bfprint.ru
+IvanovIV@bfprint.ru
+VladislavII@bfprint.ru
+VladislavII@bfprint.ru
+IvanovichIV@bfprint.ru
+IvanovichVI@bfprint.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@minta24.ru
+----------------
+ivanov@minta24.ru
+ivanov@minta24.ru
+vladislav@minta24.ru
+vladislav@minta24.ru
+ivanovich@minta24.ru
+ivanovich@minta24.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@bfprint.ru
+----------------
+ivanov@bfprint.ru
+ivanov@bfprint.ru
+vladislav@bfprint.ru
+vladislav@bfprint.ru
+ivanovich@bfprint.ru
+ivanovich@bfprint.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one>.<upper_many>@kostroma.novatek.ru
+----------------
+I.Vladislav@kostroma.novatek.ru
+I.Ivanovich@kostroma.novatek.ru
+V.Ivanov@kostroma.novatek.ru
+V.Ivanovich@kostroma.novatek.ru
+I.Ivanov@kostroma.novatek.ru
+I.Vladislav@kostroma.novatek.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@gas-kostroma.ru
+----------------
+ivanov@gas-kostroma.ru
+ivanov@gas-kostroma.ru
+vladislav@gas-kostroma.ru
+vladislav@gas-kostroma.ru
+ivanovich@gas-kostroma.ru
+ivanovich@gas-kostroma.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>.<lower_many>@novatek-azk.ru
+----------------
+ivanov.vladislav@novatek-azk.ru
+ivanov.ivanovich@novatek-azk.ru
+vladislav.ivanov@novatek-azk.ru
+vladislav.ivanovich@novatek-azk.ru
+ivanovich.ivanov@novatek-azk.ru
+ivanovich.vladislav@novatek-azk.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_one>.<lower_many>@kostroma.novatek.ru
+----------------
+i.vladislav@kostroma.novatek.ru
+i.ivanovich@kostroma.novatek.ru
+v.ivanov@kostroma.novatek.ru
+v.ivanovich@kostroma.novatek.ru
+i.ivanov@kostroma.novatek.ru
+i.vladislav@kostroma.novatek.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one>.<upper_one>.<upper_many>@kostroma.novatek.ru
+----------------
+I.V.Ivanovich@kostroma.novatek.ru
+I.I.Vladislav@kostroma.novatek.ru
+V.I.Ivanovich@kostroma.novatek.ru
+V.I.Ivanov@kostroma.novatek.ru
+I.I.Vladislav@kostroma.novatek.ru
+I.V.Ivanov@kostroma.novatek.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@kostroma.novatek.ru
+----------------
+ivanov@kostroma.novatek.ru
+ivanov@kostroma.novatek.ru
+vladislav@kostroma.novatek.ru
+vladislav@kostroma.novatek.ru
+ivanovich@kostroma.novatek.ru
+ivanovich@kostroma.novatek.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>.<lower_many>@novatek-azk.ru
+----------------
+ivanov.vladislav@novatek-azk.ru
+ivanov.ivanovich@novatek-azk.ru
+vladislav.ivanov@novatek-azk.ru
+vladislav.ivanovich@novatek-azk.ru
+ivanovich.ivanov@novatek-azk.ru
+ivanovich.vladislav@novatek-azk.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@kostroma.novatek.ru
+----------------
+ivanov@kostroma.novatek.ru
+ivanov@kostroma.novatek.ru
+vladislav@kostroma.novatek.ru
+vladislav@kostroma.novatek.ru
+ivanovich@kostroma.novatek.ru
+ivanovich@kostroma.novatek.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@gas-kostroma.ru
+----------------
+ivanov@gas-kostroma.ru
+ivanov@gas-kostroma.ru
+vladislav@gas-kostroma.ru
+vladislav@gas-kostroma.ru
+ivanovich@gas-kostroma.ru
+ivanovich@gas-kostroma.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one><upper_many>@huawei.com
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@kostroma.novatek.ru
+----------------
+ivanov@kostroma.novatek.ru
+ivanov@kostroma.novatek.ru
+vladislav@kostroma.novatek.ru
+vladislav@kostroma.novatek.ru
+ivanovich@kostroma.novatek.ru
+ivanovich@kostroma.novatek.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one>.<upper_many>@gas-kostroma.ru
+----------------
+I.Vladislav@gas-kostroma.ru
+I.Ivanovich@gas-kostroma.ru
+V.Ivanov@gas-kostroma.ru
+V.Ivanovich@gas-kostroma.ru
+I.Ivanov@gas-kostroma.ru
+I.Vladislav@gas-kostroma.ru
+----------------
+

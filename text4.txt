@@ -1,0 +1,242 @@
+Finded emails:
+----------------
+info@ptgs.ru
+trud.otd@omgau.org
+mirt-reg2@mirt-med.ru
+info@energy-sber.ru
+property@sberbank-ast.ru
+Andrey.Romanov@sberins.ru
+KASKOuu@sberins.ru
+Valentina.Drozhzha@sberins.ru
+kristinaboudova@kpmg.cz
+nk@sberbank.ru
+----------------
+
+email formats:
+----------------
+<lower_many>@ptgs.ru
+<lower_many>.<lower_many>@omgau.org
+<lower_many>-<lower_many>@mirt-med.ru
+<lower_many>@energy-sber.ru
+<lower_many>@sberbank-ast.ru
+<upper_many>.<upper_many>@sberins.ru
+<upper_one><upper_one><upper_one><upper_one><upper_many>@sberins.ru
+<upper_many>.<upper_many>@sberins.ru
+<lower_many>@kpmg.cz
+<lower_many>@sberbank.ru
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@ptgs.ru
+----------------
+andrei@ptgs.ru
+andrei@ptgs.ru
+samoilenko@ptgs.ru
+samoilenko@ptgs.ru
+sergeevich@ptgs.ru
+sergeevich@ptgs.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>.<lower_many>@omgau.org
+----------------
+andrei.samoilenko@omgau.org
+andrei.sergeevich@omgau.org
+samoilenko.andrei@omgau.org
+samoilenko.sergeevich@omgau.org
+sergeevich.andrei@omgau.org
+sergeevich.samoilenko@omgau.org
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>-<lower_many>@mirt-med.ru
+----------------
+andrei-samoilenko@mirt-med.ru
+andrei-sergeevich@mirt-med.ru
+samoilenko-andrei@mirt-med.ru
+samoilenko-sergeevich@mirt-med.ru
+sergeevich-andrei@mirt-med.ru
+sergeevich-samoilenko@mirt-med.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@energy-sber.ru
+----------------
+andrei@energy-sber.ru
+andrei@energy-sber.ru
+samoilenko@energy-sber.ru
+samoilenko@energy-sber.ru
+sergeevich@energy-sber.ru
+sergeevich@energy-sber.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sberbank-ast.ru
+----------------
+andrei@sberbank-ast.ru
+andrei@sberbank-ast.ru
+samoilenko@sberbank-ast.ru
+samoilenko@sberbank-ast.ru
+sergeevich@sberbank-ast.ru
+sergeevich@sberbank-ast.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>.<upper_many>@sberins.ru
+----------------
+Andrei.Samoilenko@sberins.ru
+Andrei.Sergeevich@sberins.ru
+Samoilenko.Andrei@sberins.ru
+Samoilenko.Sergeevich@sberins.ru
+Sergeevich.Andrei@sberins.ru
+Sergeevich.Samoilenko@sberins.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_one><upper_one><upper_one><upper_one><upper_many>@sberins.ru
+----------------
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <upper_many>.<upper_many>@sberins.ru
+----------------
+Andrei.Samoilenko@sberins.ru
+Andrei.Sergeevich@sberins.ru
+Samoilenko.Andrei@sberins.ru
+Samoilenko.Sergeevich@sberins.ru
+Sergeevich.Andrei@sberins.ru
+Sergeevich.Samoilenko@sberins.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@kpmg.cz
+----------------
+andrei@kpmg.cz
+andrei@kpmg.cz
+samoilenko@kpmg.cz
+samoilenko@kpmg.cz
+sergeevich@kpmg.cz
+sergeevich@kpmg.cz
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@sberbank.ru
+----------------
+andrei@sberbank.ru
+andrei@sberbank.ru
+samoilenko@sberbank.ru
+samoilenko@sberbank.ru
+sergeevich@sberbank.ru
+sergeevich@sberbank.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@ptgs.ru
+----------------
+ivanov@ptgs.ru
+ivanov@ptgs.ru
+vladislav@ptgs.ru
+vladislav@ptgs.ru
+ivanovich@ptgs.ru
+ivanovich@ptgs.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>.<lower_many>@omgau.org
+----------------
+ivanov.vladislav@omgau.org
+ivanov.ivanovich@omgau.org
+vladislav.ivanov@omgau.org
+vladislav.ivanovich@omgau.org
+ivanovich.ivanov@omgau.org
+ivanovich.vladislav@omgau.org
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>-<lower_many>@mirt-med.ru
+----------------
+ivanov-vladislav@mirt-med.ru
+ivanov-ivanovich@mirt-med.ru
+vladislav-ivanov@mirt-med.ru
+vladislav-ivanovich@mirt-med.ru
+ivanovich-ivanov@mirt-med.ru
+ivanovich-vladislav@mirt-med.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@energy-sber.ru
+----------------
+ivanov@energy-sber.ru
+ivanov@energy-sber.ru
+vladislav@energy-sber.ru
+vladislav@energy-sber.ru
+ivanovich@energy-sber.ru
+ivanovich@energy-sber.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sberbank-ast.ru
+----------------
+ivanov@sberbank-ast.ru
+ivanov@sberbank-ast.ru
+vladislav@sberbank-ast.ru
+vladislav@sberbank-ast.ru
+ivanovich@sberbank-ast.ru
+ivanovich@sberbank-ast.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>.<upper_many>@sberins.ru
+----------------
+Ivanov.Vladislav@sberins.ru
+Ivanov.Ivanovich@sberins.ru
+Vladislav.Ivanov@sberins.ru
+Vladislav.Ivanovich@sberins.ru
+Ivanovich.Ivanov@sberins.ru
+Ivanovich.Vladislav@sberins.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_one><upper_one><upper_one><upper_one><upper_many>@sberins.ru
+----------------
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <upper_many>.<upper_many>@sberins.ru
+----------------
+Ivanov.Vladislav@sberins.ru
+Ivanov.Ivanovich@sberins.ru
+Vladislav.Ivanov@sberins.ru
+Vladislav.Ivanovich@sberins.ru
+Ivanovich.Ivanov@sberins.ru
+Ivanovich.Vladislav@sberins.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@kpmg.cz
+----------------
+ivanov@kpmg.cz
+ivanov@kpmg.cz
+vladislav@kpmg.cz
+vladislav@kpmg.cz
+ivanovich@kpmg.cz
+ivanovich@kpmg.cz
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@sberbank.ru
+----------------
+ivanov@sberbank.ru
+ivanov@sberbank.ru
+vladislav@sberbank.ru
+vladislav@sberbank.ru
+ivanovich@sberbank.ru
+ivanovich@sberbank.ru
+----------------
+

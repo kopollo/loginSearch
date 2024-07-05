@@ -15,7 +15,10 @@ class DocxFileDownloader:
 
     def _find_docs(self):
         url = f"https://www.google.com/search?q={self.query}&num={self.num_results}"
-        response = requests.get(url)
+        ua = UserAgent()
+        agent = ua.random
+        headers = {"User-agent": agent}
+        response = requests.get(url, headers=headers)
         soup = BeautifulSoup(response.text, "html.parser")
         links = []
         print(self.query, response.status_code)
@@ -53,6 +56,8 @@ def save_docs(upload_path, links):
         headers = {"User-agent": agent}
         try:
             response = requests.get(link, headers=headers)
+            if response.status_code != 200:
+                continue
             print(response.status_code)
             address = f"{upload_path}/{i}.docx"
             if not os.path.exists(upload_path):

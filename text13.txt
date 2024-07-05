@@ -1,0 +1,110 @@
+Finded emails:
+----------------
+tn@88001004112.ru
+habibullinim@yandex.ru
+delo@spb.tatneft.ru
+pk@msk.tatneft.ru
+----------------
+
+email formats:
+----------------
+<lower_many>@88001004112.ru
+<lower_many>@yandex.ru
+<lower_many>@spb.tatneft.ru
+<lower_many>@msk.tatneft.ru
+----------------
+
+Users:
+----------------
+Андрей Самойленко Сергеевич
+Владислав Иванов ivanovich
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@88001004112.ru
+----------------
+andrei@88001004112.ru
+andrei@88001004112.ru
+samoilenko@88001004112.ru
+samoilenko@88001004112.ru
+sergeevich@88001004112.ru
+sergeevich@88001004112.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@yandex.ru
+----------------
+andrei@yandex.ru
+andrei@yandex.ru
+samoilenko@yandex.ru
+samoilenko@yandex.ru
+sergeevich@yandex.ru
+sergeevich@yandex.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@spb.tatneft.ru
+----------------
+andrei@spb.tatneft.ru
+andrei@spb.tatneft.ru
+samoilenko@spb.tatneft.ru
+samoilenko@spb.tatneft.ru
+sergeevich@spb.tatneft.ru
+sergeevich@spb.tatneft.ru
+----------------
+
+user: Андрей Самойленко Сергеевич
+email format: <lower_many>@msk.tatneft.ru
+----------------
+andrei@msk.tatneft.ru
+andrei@msk.tatneft.ru
+samoilenko@msk.tatneft.ru
+samoilenko@msk.tatneft.ru
+sergeevich@msk.tatneft.ru
+sergeevich@msk.tatneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@88001004112.ru
+----------------
+ivanov@88001004112.ru
+ivanov@88001004112.ru
+vladislav@88001004112.ru
+vladislav@88001004112.ru
+ivanovich@88001004112.ru
+ivanovich@88001004112.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@yandex.ru
+----------------
+ivanov@yandex.ru
+ivanov@yandex.ru
+vladislav@yandex.ru
+vladislav@yandex.ru
+ivanovich@yandex.ru
+ivanovich@yandex.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@spb.tatneft.ru
+----------------
+ivanov@spb.tatneft.ru
+ivanov@spb.tatneft.ru
+vladislav@spb.tatneft.ru
+vladislav@spb.tatneft.ru
+ivanovich@spb.tatneft.ru
+ivanovich@spb.tatneft.ru
+----------------
+
+user: Владислав Иванов ivanovich
+email format: <lower_many>@msk.tatneft.ru
+----------------
+ivanov@msk.tatneft.ru
+ivanov@msk.tatneft.ru
+vladislav@msk.tatneft.ru
+vladislav@msk.tatneft.ru
+ivanovich@msk.tatneft.ru
+ivanovich@msk.tatneft.ru
+----------------
+
