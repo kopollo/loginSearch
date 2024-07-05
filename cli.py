@@ -1,5 +1,6 @@
 import argparse
 import os
+import random
 from pathlib import Path
 
 import click
@@ -38,7 +39,7 @@ def main(domain, save_path):
     # 1. Input data
     upload_path = get_upload_path(domain)
     # save_path = get_save_path(save_path)
-    print(save_path)
+    # print(save_path)
 
     # 2. find and download emails
     # python cli.py rosneft -sp text2.txt
@@ -53,7 +54,7 @@ def main(domain, save_path):
 
     searcher = DocsGoogleSearcher()
     docs, code = searcher.get_file_urls(domain, "docx")
-    print(docs, code)
+    # print(docs, code)
     save_docs(upload_path, docs)
 
     # searcher = DocxFileDownloader("yandex", "docx")
@@ -82,9 +83,12 @@ def main(domain, save_path):
         email_formats.append(email_format)
     # 5. Find all users from metadata
     users = [
-        User("Андрей", "Самойленко", "Сергеевич"),
-        User("Владислав", "Иванов", "ivanovich")
+        User("Иван", "Петров", "Александрович").transliterate(),
+        User("Михаил", "Иванов", "Андреевич").transliterate(),
+        User("Анастасия", "Морозова", "Владимировна").transliterate(),
+        User("Елена", "Лебедева", "Ивановна").transliterate()
     ]
+    random.shuffle(users)
     formatter.add_paragraph_with_email_formats(email_formats)
 
     formatter.add_paragraph_with_users(users)

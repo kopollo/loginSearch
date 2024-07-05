@@ -58,7 +58,7 @@ def save_docs(upload_path, links):
             response = requests.get(link, headers=headers)
             if response.status_code != 200:
                 continue
-            print(response.status_code)
+            # print(response.status_code)
             address = f"{upload_path}/{i}.docx"
             if not os.path.exists(upload_path):
                 os.makedirs(upload_path)
