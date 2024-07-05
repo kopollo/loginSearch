@@ -69,5 +69,6 @@ class EmailFormatSearch:
                 else:
                     r.append(Commands.upper_many)
             else:
-                print("XXXXXXXXXXXXXXXXXXXXXXX")
+                pass
+                print("Unknown symbol")
         return Email(r, domain)
